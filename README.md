@@ -1,4 +1,4 @@
-### Hi there
+### Hi there!
 - I'm @Matt-Blake (Matt).
 - I'm an electronics engineer interested in software and hardware.
 - Specific interests includes signal processing, machine learning, firmware and web development. 
